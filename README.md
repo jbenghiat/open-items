@@ -29,3 +29,7 @@ Run `/open-items` (the skill is named `open-items:open-items`). The page needs t
 - `skills/open-items/SKILL.md`: the refresh procedure Claude follows.
 - `skills/open-items/page.html`: the page. Bump `PAGE_VERSION` in `SKILL.md` whenever it changes.
 - `hooks/register.ts`: the post-merge reminder, with tests in `hooks/register.test.ts`.
+
+## License
+
+MIT. See `LICENSE`.
