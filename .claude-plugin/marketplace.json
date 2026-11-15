@@ -1,0 +1,5 @@
+{
+  "name": "open-items",
+  "owner": { "name": "jbenghiat" },
+  "plugins": [{ "name": "open-items", "source": "./" }]
+}
