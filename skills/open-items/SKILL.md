@@ -69,8 +69,7 @@ Read the URL from `intent/open-items.url`. If the file is missing, run the first
 
 - the plan's Progress rows (`intent/plans/*.md`) that still name open checks;
 - the spec's open-items table, rows not marked done or settled;
-- "Open" / "Still open" lines in the project's memory files;
-- open `mcp__open-items__track` entries, if that MCP server is connected (ToolSearch for `open-items`); if it is not, say it was skipped.
+- "Open" / "Still open" lines in the project's memory files.
 
 Map each to a group: `spec` (spec open items), `live` (checks to run in the real app), `bugs` (behavior to look at), `tooling` (tooling and ~ai-config), `house` (housekeeping).
 

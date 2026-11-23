@@ -1,6 +1,6 @@
 {
   "name": "open-items",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Keeps one open-items checklist page per project; /open-items publishes or refreshes it and applies the items you tick.",
   "license": "MIT"
 }
